@@ -1,0 +1,17 @@
+C:\Users\CANTURK\Desktop\C# Uygulamaları\AlışverişUygulaması\AlışverişUygulaması\bin\Debug\net6.0-windows\AlışverişUygulaması.exe
+C:\Users\CANTURK\Desktop\C# Uygulamaları\AlışverişUygulaması\AlışverişUygulaması\bin\Debug\net6.0-windows\AlışverişUygulaması.deps.json
+C:\Users\CANTURK\Desktop\C# Uygulamaları\AlışverişUygulaması\AlışverişUygulaması\bin\Debug\net6.0-windows\AlışverişUygulaması.runtimeconfig.json
+C:\Users\CANTURK\Desktop\C# Uygulamaları\AlışverişUygulaması\AlışverişUygulaması\bin\Debug\net6.0-windows\AlışverişUygulaması.dll
+C:\Users\CANTURK\Desktop\C# Uygulamaları\AlışverişUygulaması\AlışverişUygulaması\bin\Debug\net6.0-windows\AlışverişUygulaması.pdb
+C:\Users\CANTURK\Desktop\C# Uygulamaları\AlışverişUygulaması\AlışverişUygulaması\obj\Debug\net6.0-windows\AlışverişUygulaması.csproj.AssemblyReference.cache
+C:\Users\CANTURK\Desktop\C# Uygulamaları\AlışverişUygulaması\AlışverişUygulaması\obj\Debug\net6.0-windows\AlışverişUygulaması.Form1.resources
+C:\Users\CANTURK\Desktop\C# Uygulamaları\AlışverişUygulaması\AlışverişUygulaması\obj\Debug\net6.0-windows\AlışverişUygulaması.csproj.GenerateResource.cache
+C:\Users\CANTURK\Desktop\C# Uygulamaları\AlışverişUygulaması\AlışverişUygulaması\obj\Debug\net6.0-windows\AlışverişUygulaması.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CANTURK\Desktop\C# Uygulamaları\AlışverişUygulaması\AlışverişUygulaması\obj\Debug\net6.0-windows\AlışverişUygulaması.AssemblyInfoInputs.cache
+C:\Users\CANTURK\Desktop\C# Uygulamaları\AlışverişUygulaması\AlışverişUygulaması\obj\Debug\net6.0-windows\AlışverişUygulaması.AssemblyInfo.cs
+C:\Users\CANTURK\Desktop\C# Uygulamaları\AlışverişUygulaması\AlışverişUygulaması\obj\Debug\net6.0-windows\AlışverişUygulaması.csproj.CoreCompileInputs.cache
+C:\Users\CANTURK\Desktop\C# Uygulamaları\AlışverişUygulaması\AlışverişUygulaması\obj\Debug\net6.0-windows\AlışverişUygulaması.dll
+C:\Users\CANTURK\Desktop\C# Uygulamaları\AlışverişUygulaması\AlışverişUygulaması\obj\Debug\net6.0-windows\refint\AlışverişUygulaması.dll
+C:\Users\CANTURK\Desktop\C# Uygulamaları\AlışverişUygulaması\AlışverişUygulaması\obj\Debug\net6.0-windows\AlışverişUygulaması.pdb
+C:\Users\CANTURK\Desktop\C# Uygulamaları\AlışverişUygulaması\AlışverişUygulaması\obj\Debug\net6.0-windows\AlışverişUygulaması.genruntimeconfig.cache
+C:\Users\CANTURK\Desktop\C# Uygulamaları\AlışverişUygulaması\AlışverişUygulaması\obj\Debug\net6.0-windows\ref\AlışverişUygulaması.dll
